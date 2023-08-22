@@ -63,3 +63,7 @@ Just start IDEA.
 
 1. [MyBatisCodeHelperProCrack](https://github.com/starxg/MyBatisCodeHelperProCrack)
 2. [RainbowBracketsCrack](https://github.com/starxg/RainbowBracketsCrack)
+3. [JPABuddyCrack](https://github.com/starxg/JPABuddyCrack)
+4. [JRebelCrack](https://github.com/starxg/JRebelCrack)
+
+
